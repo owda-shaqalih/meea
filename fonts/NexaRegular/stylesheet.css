@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Nexa';
+    src: url('Nexa-Bold.eot');
+    src: url('Nexa-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Nexa-Bold.woff2') format('woff2'),
+        url('Nexa-Bold.woff') format('woff'),
+        url('Nexa-Bold.ttf') format('truetype'),
+        url('Nexa-Bold.svg#Nexa-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nexa';
+    src: url('Nexa-Light.eot');
+    src: url('Nexa-Light.eot?#iefix') format('embedded-opentype'),
+        url('Nexa-Light.woff2') format('woff2'),
+        url('Nexa-Light.woff') format('woff'),
+        url('Nexa-Light.ttf') format('truetype'),
+        url('Nexa-Light.svg#Nexa-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NexaRegular';
+    src: url('NexaRegular.eot');
+    src: url('NexaRegular.eot?#iefix') format('embedded-opentype'),
+        url('NexaRegular.woff2') format('woff2'),
+        url('NexaRegular.woff') format('woff'),
+        url('NexaRegular.ttf') format('truetype'),
+        url('NexaRegular.svg#NexaRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nexa';
+    src: url('NexaBlack.eot');
+    src: url('NexaBlack.eot?#iefix') format('embedded-opentype'),
+        url('NexaBlack.woff2') format('woff2'),
+        url('NexaBlack.woff') format('woff'),
+        url('NexaBlack.ttf') format('truetype'),
+        url('NexaBlack.svg#NexaBlack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

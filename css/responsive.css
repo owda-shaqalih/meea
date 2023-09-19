@@ -1,0 +1,671 @@
+@media screen and (min-width: 1500px) {
+	.section_live_auctions .container-fluid,
+	.section_locations_place .container-fluid{
+		padding: 0 0 0 15%;
+	}
+	.item_slide{
+		height: 650px;
+	}
+}
+@media screen and (max-width: 1300px) {
+	.section_live_auctions .container-fluid,
+	.section_locations_place .container-fluid{
+		padding: 0 0 0 5%;
+	}
+}
+@media screen and (max-width: 1199px) {
+	.section_live_auctions .container-fluid,
+	.section_locations_place .container-fluid{
+		padding: 0 0 0 15px;
+	}
+	.main_menu{
+		display: none !important;
+	}
+	#header .menu-trigger{
+		display: inline-block !important;
+	}
+	.head_middle h2,.head_text h2{
+		font-size: 32px;
+	}
+	#home_slider .owl-nav{
+		right: 15px;
+	}
+	.box_menu_filter{
+		padding: 40px 20px;
+	}
+	.owl-carousel.dots_sty .owl-dots{
+		display: block !important;
+	}
+	.section_locations_place .head_text{
+		text-align: center;
+	}
+	.lg_none{
+		display: none !important;
+	}
+	.xl_none{
+		display: table;
+		margin: 20px auto 0;
+	}
+	#footer{
+		padding: 150px 0 30px;
+	}
+	.cption_single h2{
+		font-size: 22px;
+	}
+	.bid_txxt h3{
+		font-size: 16px;
+	}
+	.bid_sale{
+		font-size: 15px;
+	}
+	.details_hrs_right {
+		padding-top: 10px;
+	}
+	.market_banner h2{
+		font-size: 30px;
+	}
+	.market_banner_box_txt p{
+		font-size: 15px;
+	}
+	.owl-carousel#marker_slidr .owl-nav{
+		bottom: 10px;
+	}
+	.owl-carousel#marker_slidr .owl-dots{
+		bottom: 20px;
+	}
+	.mrkt_txt{
+		padding-bottom: 50px;
+	}
+	.mrkt_txt h2{
+		font-size: 30px;
+	}
+}
+@media screen and (max-width: 991px) {
+	.point_txt h3{
+		font-size: 16px;
+	}
+	.box_middle{
+		padding: 40px 30px;
+	}
+	.section_live_auctions .head_text{
+		text-align: center;
+	}
+	.nav-tabs.tabs_sty{
+		display: table;
+		margin: auto auto 30px;
+	}
+	.item_product h2{
+		font-size: 16px;
+	}
+	.ft_logo{
+		text-align: center;
+	}
+	.ft_about{
+		text-align: center;
+	}
+	.ft_box{
+		margin-top: 30px;
+	}
+	.copy_right{
+		text-align: right;
+	}
+	.ft_title{
+		font-size: 20px;
+	}
+	#footer{
+		background-image: none;
+		background-color: #335BB4;
+		padding: 50px 0 30px;
+	}
+	.bk_txt_nrm h3{
+		font-size: 18px;
+	}
+	.sub_title{
+		font-size: 22px;
+	}
+	.title_nrm{
+		font-size: 22px;
+	}
+	.modal_head h2{
+		font-size: 22px;
+	}
+	.cption_single h2{
+		font-size: 20px;
+	}
+	.owl-carousel.single_slide .owl-nav{
+		display: none !important;
+	}
+	.owl-carousel.single_slide .owl-dots{
+		bottom: 20px;
+	}
+	.item_single{
+		padding-bottom: 40px;
+	}
+	.details_hrs_right{
+		margin-left: 0 !important;
+	}
+	.box_mo_bid h3{
+		font-size: 30px;
+	}
+	.market_sale{
+		font-size: 20px;
+	}
+	.market_banner h2,.mrkt_txt h2{
+		font-size: 26px;
+	}
+	.box_search_no_result{
+		height: 300px;
+		padding: 20px 0;
+	}
+}
+@media screen and (max-width: 767px) {
+	.box_middle{
+		margin-top: 0;
+		height: auto;
+	}
+	#home_slider .owl-nav{
+		display: none !important;
+	}
+	#home_slider .owl-dots{
+		display: block !important;
+	}
+	.bk_box_slide{
+		padding: 50px 0;
+	}
+	.item_slide{
+		height: 400px;
+	}
+	.head_middle h2,.head_text h2{
+		font-size: 28px;
+	}
+	.form_search{
+		display: none;
+	}
+	#header{
+		padding: 15px 0;
+	}
+	.section_live_auctions,.section_locations_place,.section_stallion_shop{
+		padding: 50px 0;
+	}
+	.box_menu_filter ul li a{
+		font-size: 14px;
+	}
+	.box_menu_filter ul li{
+		float: left;
+		width: 50%;
+	}
+	.box_menu_filter{
+		padding: 30px 20px;
+	}
+	.ft_title{
+		font-size: 18px;
+	}
+	#header{
+		height: 95px;
+	}
+	body.fixed-header .main-wrapper{
+	  padding-top: 95px;
+	}
+	.mb_50{
+		margin-bottom: 30px;
+	}
+	.accordion_sty .btn-link,.bk_txt_nrm h3{
+		font-size: 16px;
+	}
+	.content_innerPage{
+		padding:50px 0;
+	}
+	.box_contact{
+		margin-bottom: 30px;
+	}
+	.map_box{
+		border-radius: 15px;
+	}
+	.sub_title{
+		font-size: 20px;
+	}
+	.box_contact{
+		padding: 30px 20px;
+	}
+	.inner_page #header{
+		padding: 15px 0 !important;
+	}
+	.aling_screen .box_contact{
+		padding: 30px 20px;
+	}
+	.inner_page.auth_page #header {
+	    height:auto !important;
+	}
+	.auth_content_page{
+	  min-height: initial;
+	}
+	.label_txxt{
+		font-size: 14px;
+	}
+	.heart_icon{
+		width: 30px;
+		height: 30px;
+		padding: 8px;
+	}
+	.title_nrm{
+		font-size: 20px;
+	}
+	.btn_filter{
+		padding: 10px 20px 8px;
+	}
+	.bk_filter_top{
+		padding-bottom: 0;
+	}
+	.prf_subTitle{
+		font-size: 16px;
+	}
+	.modal_head h2{
+		font-size: 20px;
+	}
+	.cption_single h2{
+		font-size: 18px;
+	}
+	.item_single{
+		height: 370px;
+	}
+	.cption_single{
+		display: block !important;
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		height: auto;
+		padding: 40px 20px;
+	}
+	.cption_single h2{
+		margin-bottom: 10px;
+	}
+	.info_itm{
+		margin-bottom: 10px;
+	}
+	.info_itm:last-child{
+		margin-bottom: 0;
+	}
+	.favorite_btn{
+		width: 35px;
+		height: 35px;
+		top: 15px;
+		right: 15px;
+	}
+	.info_icon{
+		width: 25px;
+		height: 25px;
+		padding: 5px;
+	}
+	.info_itm > a{
+		padding-left: 30px;
+	}
+	.info_itm > a{
+		line-height: 26px;
+	}
+	.head_sigle_title h2{
+		font-size: 16px;
+	}
+	.share_single{
+		font-size: 15px;
+	}
+	.favorite_btn{
+		padding: 8px;
+	}
+	.details_hrs_list{
+		display: block !important;
+	}
+	.dt_hrs_item{
+		float: left;
+		width: 33.3333%;
+		margin-bottom: 10px;
+		padding-bottom: 10px;
+		margin-right: 0;
+		padding-right: 0;
+		text-align: center;
+	}
+	.dt_hrs_item:before{
+		width: 50px;
+		height: 1px;
+		left: 50%;
+		right: auto;
+		top: auto;
+		bottom: 0;
+		transform: translateX(-50%);
+	}
+	.bidders_actions .btn_prim span{
+		font-size: 16px;
+	}
+	.box_mo_bid h3{
+		font-size: 28px;
+	}
+	.box_mo_bid p{
+		font-size: 18px;
+	}
+	.mo_head_sty2 h2{
+		font-size: 26px;
+	}
+	.bid_choise_itm p{
+		font-size: 18px;
+	}
+	.market_sale{
+		font-size: 18px;
+	}
+	.market_sale > img{
+		max-width: 17px;
+	}
+	.market_menu_filter ul li a{
+		font-size: 15px;
+	}
+	.market_banner h2,.mrkt_txt h2{
+		font-size: 22px;
+	}
+	.market_banner_box_txt p{
+		font-size: 15px;
+	}
+	.market_banner{
+		margin-bottom: 20px;
+		padding: 25px 20px;
+	}
+	.mrkt_pic{
+		left: auto;
+		height: auto;
+	}
+	.mrkt_pic:before{
+		display: none;
+	}
+	.banner_market_slider{
+		padding: 0;
+	}
+	.mrkt_txt{
+		min-height: initial;
+		padding: 20px 20px 50px;
+	}
+	.mrkt_pic > img{
+		border-radius: 20px 0 20px 0;
+	}
+	.bk_filter_top_search_page{
+		display: block !important;
+	}
+	.filter_itm.field_search{
+		width: 100%;
+	}
+	.bk_filter_top_search_page{
+		margin-bottom: 20px;
+	}
+	.tips_txt h3{
+		font-size: 18px;
+	}
+}
+@media screen and (max-width: 575px) {
+	.item_slide{
+		height: 300px;
+	}
+	#home_slider .owl-dots{
+		bottom: 20px;
+	}
+	.bk_box_slide{
+		padding: 30px 0;
+	}
+	.box_middle{
+		padding: 30px 20px;
+		border-radius: 30px;
+	}
+	.head_middle h2,.head_text h2{
+		font-size: 24px;
+	}
+	.point_icon > img{
+		max-width: 20px;
+	}
+	.point_icon{
+		width: 20px;
+	}
+	.point_txt{
+		margin-left: 30px;
+	}
+	.auction_pic{
+		float: none;
+		display: block;
+	}
+	.auction_pic > img{
+		width: 100% !important;
+		height: 200px;
+	}
+	.auction_info{
+		margin-left: 0;
+		margin-top: 10px;
+	}
+	.auction_bottom{
+		padding-right: 15px;
+		padding-bottom: 60px;
+	}
+	.btn_bid{
+		width: 100%;
+		height: 45px;
+		bottom: 0;
+		top: auto;
+		left: 0;
+		right: auto;
+		padding: 12px 10px 10px;
+	}
+	#auction_slide .owl-carousel .item{
+		padding: 10px;
+	}
+	.section_live_auctions .container-fluid, .section_locations_place .container-fluid{
+		padding: 0 15px;
+	}
+	.section_live_auctions .container-fluid .row > div.col-lg-4{
+		padding-right: 0;
+	}
+	.auction_label_active{
+		font-size: 12px;
+	}
+	.auction_info > h2{
+		font-size: 14px;
+	}
+	.end_bt p{
+		padding: 3px 5px 0 5px;
+	}
+	.product_pic{
+		height: auto;
+	}
+	.box_menu_filter ul li a{
+		padding: 10px 30px 8px 10px;
+	}
+	.box_menu_filter{
+		padding:20px 15px 10px; 
+	}
+	.head_text p{
+		font-size: 13px;
+	}
+	.pagination_sty li a{
+		font-size: 15px;
+		padding: 12px 5px 10px;
+	}
+	.section_locations_place .container-fluid .row > div.col-lg-3{
+		padding-right: 0;
+	}
+	.ft_social{
+		display: table;
+		margin: auto;
+	}
+	.copy_right{
+		text-align: center;
+		margin-top: 20px;
+	}
+	.ft_app li{
+		text-align: center;
+	}
+	.accordion_sty .card-body p,.bk_txt_nrm p{
+		font-size: 14px;
+	}
+	.inner_page{
+		background-size: 150px;
+	}
+	.aling_screen .box_contact,.aling_screen{
+		width: 100%;
+	}
+	.bk_send_agin{
+		display: block !important;
+	}
+	.note_confirm{
+		text-align: center;
+		margin-top: 20px;
+	}
+	.title_nrm{
+		font-size: 18px;
+	}
+	.btn_filter{
+		font-size: 14px;
+	}
+	.filter_itm{
+		display: block;
+		width: 100%;
+		margin: 0 0 10px 0;
+	}
+	.btn_filter{
+		display: block;
+		width: 100%;
+		text-align: left;
+	}
+	.btn_filter.dropdown-toggle::after{
+		float: right;
+	}
+	.check_sty p,.confirm_timer,.contnt_not_found p,
+	.label_txxt,.alert_blue p,.bk_address_choise p,.bk_address_choise h3{
+		font-size: 14px;
+	}
+	.prf_head,.prf_body, .prf_footer{
+		padding: 20px;
+	}
+	.modal_head h2{
+		font-size: 18px;
+	}
+	.modal_sty .modal-body{
+		padding: 20px;
+	}
+	.btn_close_modal{
+		top: 10px;
+		right: 10px;
+	}
+	.pay_cnn p{
+		font-size: 14px;
+		padding-right: 10px;
+		margin-right: 10px;
+	}
+	.cption_single h2{
+		font-size: 16px;
+	}
+	.item_single{
+		height: 300px;
+	}
+	.bk_single_txt p{
+		font-size: 14px;
+	}
+	.userLogin_hd .btn_prim > i{
+	  display: block;
+	}
+	.userLogin_hd .btn_prim > span{
+		display: none;
+	}
+	.userLogin_hd .btn_prim:before,.userLogin_hd .btn_prim:after{
+		display: none;
+	}
+	.userLogin_hd .btn_prim{
+		font-size: 16px;
+		height: 40px;
+		width: 40px;
+		padding: 12px 5px 10px;
+	}
+	#header .menu-trigger,.userLogin_hd{
+		margin-left: 10px;
+	}
+	.details_hrs_right{
+		display: block !important;
+	}
+	.line_s{
+		display: none;
+	}
+	.compent_links{
+		margin-top: 10px;
+	}
+	.highest_act,.highest_nrm{
+		font-size: 14px;
+	}
+	.bk_box_info_auction{
+		padding: 30px 15px 20px 15px;
+	}
+	.highest_act{
+		padding: 8px 10px 6px;
+	}
+	.bid_txxt h3{
+		font-size: 14px;
+	}
+	.box_mo_bid h3{
+		font-size: 24px;
+	}
+	.box_mo_bid p{
+		font-size: 16px;
+	}
+	.mo_head_sty2 h2{
+		font-size: 22px;
+	}
+	.bid_choise_itm p{
+		font-size: 16px;
+	}
+	.market_sale{
+		font-size: 16px;
+	}
+	.market_sale > img{
+		max-width: 15px;
+	}
+	.box_groupFilter_choise > div{
+		display: block !important;
+	}
+	.itm_grp_ch{
+		padding: 0;
+	}
+	.itm_grp_ch_groups{
+		margin: 0 -5px;
+	}
+	.itm_grp_ch_groups > div{
+		padding: 0 5px;
+		width: 50%;
+		float: left;
+	}
+	.btn_filter {
+	    padding: 10px 14px 8px;
+	}
+	.market_banner h2,.mrkt_txt h2{
+		font-size: 20px;
+	}
+	.profile_drop .btn_prim > span,.profile_drop .btn_prim > i{
+		display: none !important;
+	}
+	.profile_drop .btn_prim{
+		background-color: transparent;
+		padding: 0;
+		border-radius: 0;
+		width: auto;
+		height: auto;
+	}
+	.profile_drop .dropdown_sort:before{
+		display: none;
+	}
+	.profile_drop .dropdown_sort li > a{
+		padding: 8px 15px 6px 15px;
+	}
+	.profile_drop .btn_prim .cc_name{
+		margin-right: 0;
+	}
+	.box_search_no_result{
+		height: auto;
+		padding: 40px 0;
+	}
+	.bk_tp_pic{
+		height: 200px;
+		border-radius: 15px;
+	}
+	.tips_txt p{
+		font-size: 14px;
+	}
+}

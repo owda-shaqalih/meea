@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.713" height="12.342" viewBox="0 0 13.713 12.342">
+  <g id="excel" transform="translate(-4 -6)">
+    <path id="Path_123244" data-name="Path 123244" d="M19.142,6H14.6a.6.6,0,0,0-.6.6V9.086h5.142Z" transform="translate(-6.572)" fill="#169154"/>
+    <path id="Path_123245" data-name="Path 123245" d="M14,33.054v2.469a.6.6,0,0,0,.6.6h4.545V33.054Z" transform="translate(-6.572 -17.779)" fill="#18482a"/>
+    <path id="Path_123246" data-name="Path 123246" d="M14,15h5.142v3.086H14Z" transform="translate(-6.572 -5.917)" fill="#0c8045"/>
+    <path id="Path_123247" data-name="Path 123247" d="M14,24h5.142v3.1H14Z" transform="translate(-6.572 -11.832)" fill="#17472a"/>
+    <g id="Group_94303" data-name="Group 94303" transform="translate(12.571 6)">
+      <path id="Path_123248" data-name="Path 123248" d="M33.544,6H29V9.086h5.142V6.6A.6.6,0,0,0,33.544,6Z" transform="translate(-29 -6)" fill="#29c27f"/>
+      <path id="Path_123249" data-name="Path 123249" d="M29,33.054v3.067h4.545a.6.6,0,0,0,.6-.6V33.054H29Z" transform="translate(-29 -23.779)" fill="#27663f"/>
+      <path id="Path_123250" data-name="Path 123250" d="M29,15h5.142v3.086H29Z" transform="translate(-29 -11.917)" fill="#19ac65"/>
+      <path id="Path_123251" data-name="Path 123251" d="M29,24h5.142v3.1H29Z" transform="translate(-29 -17.832)" fill="#129652"/>
+    </g>
+    <path id="Path_123252" data-name="Path 123252" d="M10.28,20.856h-5.7A.576.576,0,0,1,4,20.28v-5.7A.576.576,0,0,1,4.576,14h5.7a.576.576,0,0,1,.576.576v5.7A.576.576,0,0,1,10.28,20.856Z" transform="translate(0 -5.257)" fill="#0c7238"/>
+    <path id="Path_123253" data-name="Path 123253" d="M9.622,19h.818l.664,1.287.7-1.287h.764l-1.053,1.714,1.077,1.714h-.806l-.723-1.347-.72,1.347H9.526l1.095-1.72Z" transform="translate(-3.632 -8.543)" fill="#fff"/>
+  </g>
+</svg>

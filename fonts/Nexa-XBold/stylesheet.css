@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Nexa';
+    src: url('Nexa-XBold.eot');
+    src: url('Nexa-XBold.eot?#iefix') format('embedded-opentype'),
+        url('Nexa-XBold.woff2') format('woff2'),
+        url('Nexa-XBold.woff') format('woff'),
+        url('Nexa-XBold.ttf') format('truetype'),
+        url('Nexa-XBold.svg#Nexa-XBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

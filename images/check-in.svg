@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="check-in" transform="translate(0.5 0.5)">
+    <line id="Line_198" data-name="Line 198" x2="7.5" transform="translate(7.5 11)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_81512" data-name="Path 81512" d="M13,9l2.5,2.5L13,14" transform="translate(-0.5 -0.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Line_199" data-name="Line 199" x2="15" transform="translate(0 5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_81513" data-name="Path 81513" d="M15.5,7.5v-4a1,1,0,0,0-1-1H1.5a1,1,0,0,0-1,1v11a1,1,0,0,0,1,1h9" transform="translate(-0.5 -0.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Line_200" data-name="Line 200" y2="2" transform="translate(4)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Line_201" data-name="Line 201" y2="2" transform="translate(11)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

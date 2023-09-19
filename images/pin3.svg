@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0 0 92 92">
+  <defs>
+    <filter id="Oval" x="25" y="31" width="43" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#00245e" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Oval-2" x="13" y="25" width="67" height="67" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-color="#00245e" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="pin3" transform="translate(-1583 -1097)">
+    <g id="Oval-3" data-name="Oval" transform="translate(1583.19 1097.19)" opacity="0.1">
+      <circle id="Oval-4" data-name="Oval" cx="46" cy="46" r="46" transform="translate(-0.19 -0.19)" fill="#075de7"/>
+      <circle id="Oval-5" data-name="Oval" cx="46" cy="46" r="46" transform="translate(-0.19 -0.19)" fill="none" style="mix-blend-mode: soft-light;isolation: isolate"/>
+    </g>
+    <g id="My_Position_small" data-name="My Position/small" transform="translate(1614 1128)">
+      <g id="Oval-6" data-name="Oval">
+        <g transform="matrix(1, 0, 0, 1, -31, -31)" filter="url(#Oval)">
+          <circle id="Oval-7" data-name="Oval" cx="15.5" cy="15.5" r="15.5" transform="translate(31 31)" fill="#075de7"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -31, -31)" filter="url(#Oval-2)" style="mix-blend-mode: soft-light;isolation: isolate">
+          <circle id="Oval-8" data-name="Oval" cx="15.5" cy="15.5" r="15.5" transform="translate(31 31)" fill="#17c661"/>
+        </g>
+      </g>
+    </g>
+    <path id="location-pin" d="M7.547,0A4.569,4.569,0,0,0,3,4.58c0,3.589,4.12,7.294,4.295,7.45a.38.38,0,0,0,.5,0c.175-.156,4.295-3.861,4.295-7.45A4.569,4.569,0,0,0,7.547,0Zm0,7.073a2.526,2.526,0,1,1,2.526-2.526A2.529,2.529,0,0,1,7.547,7.073Z" transform="translate(1621.548 1136.342)" fill="#fff"/>
+  </g>
+</svg>
